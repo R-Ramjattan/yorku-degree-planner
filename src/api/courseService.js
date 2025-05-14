@@ -8,11 +8,16 @@ const cache = {};
  * input : {string} deptCode e.g. "EECS"
  * output : returns Promise<Array<CourseRaw>> (array of course objects)
  */
+
+// base url for Vite (configured for gh pages)
+const BASE = import.meta.env.BASE_URL;
+
 export async function loadDepartment(deptCode) {
   const key = deptCode.toUpperCase();
   if (!cache[key]) {
     const filename = `${deptCode.toLowerCase()}.json`;
-    const url = `/data/${filename}`;
+    // const url = `/data/${filename}`;
+    const url = `${BASE}data/${filename}`;
     cache[key] = fetch(url)
       .then(res => {
         if (!res.ok) {

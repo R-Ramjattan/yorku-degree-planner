@@ -1,12 +1,20 @@
-# React + Vite
+# YorkU Degree Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web app built using React + Vite for planning your York University degree term-by-term, respecting prerequisites and offering interactive features like drag-and-drop scheduling, fine-tuning for certain preferences, and course dependency warnings/highlights.
 
-Currently, two official plugins are available:
+Live Demo: https://r-ramjattan.github.io/yorku-degree-planner/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+Automated Planning: Generates a semester-by-semester plan based on required courses, electives, and complementary sections.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Interactive Adjustments: Drag-and-drop courses between semesters to fine-tune your schedule.
+
+Dependency Awareness: Ensures prerequisites are completed in prior terms, and flags any invalid manual placements.
+
+Priority Sliders: Customize focus between mandatory, elective, and complementary priorities, adjust credit-load balancing, and a hint of some randomness.
+
+Course Details: Click any course to view title, credits, prerequisites, and description.
+
+PDF Checklist Parsing: (Possible feature in the future) Upload degree checklist pdf to auto-populate your course inputs.
+
