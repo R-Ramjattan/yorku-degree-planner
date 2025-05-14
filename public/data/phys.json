@@ -1,0 +1,572 @@
+{
+    "courses": [
+        {
+            "dept": "phys",
+            "code": "1011",
+            "credit": 3.0,
+            "name": "Physics 1",
+            "desc": "Topics include linear, rotational and oscillatory motion; Newtonian mechanics; work and energy; gravitation; waves and sound. Differential calculus and vector algebra are used. This course covers topics in greater depth than SC/PHYS 1411 3.00 or SC/PHYS 1421 3.00. It should be taken by all those likely to enroll in 2000-level physics courses, and is a prequel to SC/PHYS1012 3.0. Prerequisites: : 12U Physics or OAC Physics or SC/PHYS 1510 3.00; MHF4U Advanced Functions and MCV4U Calculus and Vectors, or 12U Advanced Functions and Introductory Calculus, or OAC Algebra and OAC Calculus, or SC/MATH 1505 6.00, or SC/MATH 1520 3.00. Course credit exclusions: SC/PHYS 1010 6.00; SC/PHYS 1411 3.00, SC/PHYS 1420 6.00; SC/PHYS 1421 3.00; SC/PHYS 1800 3.00; SC/ISCI 1310 6.00; SC/ISCI 1301 3.00.",
+            "prereqs": "phys1510 math1505 math1520 phys1010 phys1411 phys1420 phys1421 phys1800 isci1310 isci1301"
+        },
+        {
+            "dept": "phys",
+            "code": "1012",
+            "credit": 3.0,
+            "name": "Physics 2",
+            "desc": "A sequel to PHYS1011 3.0. Topics include electrostatics; magnetostatics; electric current, DC circuits, and induction; electromagnetic waves, optics. Differential and integral calculus and vector algebra are used. This course covers fewer topics than SC/PHYS 1411 3.00 or SC/PHYS 1421 3.00, but covers them in greater depth. It should be taken by all those likely to enrol in 2000-level physics courses. Prerequisite: SC/PHYS1011 3.00, or a minimum grade of C in either SC/PHYS 1411 3.00 or SC/PHYS 1421 3.00; SC/MATH1013 3.00 or equivalent. Corequisite(s): SC/MATH 1014 3.00, or SC/MATH 1505 6.00, or equivalents. Course credit exclusions: SC/PHYS 1410 6.00; SC/PHYS 1420 6.00; SC/PHYS 1412 3.00; SC/PHYS 1422 3.00; SC/PHYS 1801 3.00; SC/ISCI 1310 6.00; SC/ISCI 1302 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "1070",
+            "credit": 3.0,
+            "name": "Fundamentals of Astronomy",
+            "desc": "An introduction to the foundations of astronomy and astrophysics. The course covers basic measurement concepts and techniques, and gives an overview of the properties and workings of planets and stars. Prerequisite: OAC Physics or 12U Physics or SC/PHYS 1510 3.00. Prerequisite or corequisite: SC/MATH 1013 3.00 or SC/MATH 1505 6.00 or equivalent.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "1411",
+            "credit": 3.0,
+            "name": "Physics Fundamentals 1",
+            "desc": "A calculus-based survey of physics. Topics include kinematics, dynamics, momentum and energy for linear and rotational motion; elementary kinetic theory and thermodynamics. This course is recommended for students unlikely to take 2000-level Physics courses. It is a prequel to SC/PHYS 1412 3.0 Prerequisites: 12U Physics or OAC Physics or SC/PHYS 1510 3.00; MHF4U Advanced Functions and MCV4U Calculus and Vectors, or 12U Advanced Functions and Introductory Calculus, or OAC Algebra and OAC Calculus, or SC/MATH 1505 6.00, or SC/MATH 1520 3.00. Course credit exclusions: SC/PHYS 1010 6.00; SC/PHYS 1011 3.00, SC/PHYS 1420 6.00; SC/PHYS 1421 3.00; SC/PHYS 1800 3.00; SC/ISCI 1310 6.00; SC/ISCI 1301 3.00.",
+            "prereqs": "phys1510 math1505 math1520 phys1010 phys1011 phys1420 phys1421 phys1800 isci1310 isci1301"
+        },
+        {
+            "dept": "phys",
+            "code": "1412",
+            "credit": 3.0,
+            "name": "Physics Fundamentals 2",
+            "desc": "A calculus-based survey of physics and sequel to SC/PHYS 1411 3.0. Topics include static and current electricity; waves and physical and geometrical optics; elements of modern physics. This course is recommended for students unlikely to take 2000-level Physics courses. Prerequisites: SC/PHYS 1411 3.00 or SC/PHYS1421 3.00 or SC/PHYS1011 3.00 or SC/PHYS 1800 3.00. Course credit exclusions: SC/PHYS 1010 6.00, SC/PHYS 1410 6.00, SC/PHYS 1420 6.00; SC/PHYS 1012 3.00, SC/PHYS 1422 3.00; SC/PHYS 1801 3.00; SC/ISCI 1310 6.00; SC/ISCI 1302 3.00.",
+            "prereqs": "phys1411 phys1800 phys1010 phys1410 phys1420 phys1012 phys1422 phys1801 isci1310 isci1302"
+        },
+        {
+            "dept": "phys",
+            "code": "1421",
+            "credit": 3.0,
+            "name": "Physics with Life Science Applications 1",
+            "desc": "Fundamental physics concepts are emphasized through applications to the life sciences. Topics include linear and rotational motion; Newtonian mechanics; work and energy; fluid statics and dynamics. Differential calculus and vector algebra are used. This course is recommended for students unlikely to enroll in 2000-level physics courses, and is a prequel to SC/PHYS1422 3.00. Prerequisites: 12U Physics or OAC Physics or SC/PHYS 1510 3.00; MHF4U Advanced Functions and MCV4U Calculus and Vectors, or 12U Advanced Functions and Introductory Calculus, or OAC Algebra and OAC Calculus, or SC/MATH 1505 6.00, or SC/MATH 1520 3.00. Course Credit Exclusions: SC/PHYS 1010 6.00 SC/PHYS 1011 3.00; SC/PHYS 1410 6.00; SC/PHYS 1411 3.00; SC/PHYS 1800 3.00; SC/ISCI 1310 6.0; SC/ISCI 1301 3.00.",
+            "prereqs": "phys1510 math1505 math1520 phys1010 phys1011 phys1410 phys1411 phys1800 isci1310 isci1301"
+        },
+        {
+            "dept": "phys",
+            "code": "1422",
+            "credit": 3.0,
+            "name": "Physics with Life Science Applications 2",
+            "desc": "A sequel to SC/PHYS1421 3.0 in which fundamental concepts are emphasized through applications to the life sciences. Topics include electrostatics; DC circuits; magnetic fields; induction; oscillation and waves, electromagnetic waves; optics. Differential calculus and vector algebra are used. This course is recommended for students unlikely to enrol in 2000-level physics courses. Prerequisites: SC/PHYS 1421 3.00 or SC/PHYS1411 3.00 or SC/PHYS1011 3.00 or SC/PHYS 1800 3.00. Course credit exclusions: SC/PHYS 1010 6.00, SC/PHYS1410 6.00, SC/PHYS 1420 6.00; SC/PHYS 1012 3.00, SC/PHYS 1412 3.00; SC/PHYS 1801 3.00; SC/ISCI 1310 6.00; SC/ISCI 1302 3.00.",
+            "prereqs": "phys1421 phys1800 phys1010 phys1420 phys1012 phys1412 phys1801 isci1310 isci1302"
+        },
+        {
+            "dept": "phys",
+            "code": "1470",
+            "credit": 3.0,
+            "name": "Highlights of Astronomy",
+            "desc": "An introductory course on modern astronomy for science students surveys the nature, formation, and evolution of planets, stars, galaxies, and the universe by highlighting selected topics of wide interest and importance. Prerequisites or Corequisites: SC/MATH 1013 3.00 or SC/MATH 1505 6.00 or equivalent. Course credit exclusion: SC/PHYS 1070 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "1510",
+            "credit": 3.0,
+            "name": "Introduction to Physics",
+            "desc": "An introductory course for students lacking adequate preparation for SC/PHYS 1011 3.00, SC/PHYS 1012 3.00, SC/PHYS 1411 3.00, SC/PHYS 1412 3.00, SC/PHYS 1421 3.00, SC/PHYS 1422 3.00. Topics include dynamics (forces and motion, including oscillatory motion), energy and momentum, gravitational, electric and magnetic fields, the wave nature of light, and geometric optics. No calculus is used, but vectors are used extensively. Prerequisite: Ontario Grade 11 Functions or Functions and Applications. Note: May not be taken by any student who has taken or is currently taking another University course in physics.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "1800",
+            "credit": 3.0,
+            "name": "Engineering Mechanics",
+            "desc": "Survey of the fundamental concepts of statics and dynamics with an emphasis on engineering applications. This is a calculus-based course intended primarily for engineering students. Prerequisites: 12U Physics or OAC Physics or SC/PHYS 1510 3.00. MHF4U Advanced Functions and MCV4U Calculus and Vectors, or 12U Advanced Functions and Introductory Calculus, or OAC Algebra and OAC Calculus. Corequisites: SC/MATH 1013 3.00 or SC/MATH 1300 3.00 or SC/MATH 1505 6.00. Course Credit Exclusions: SC/PHYS 1010 6.0, SC/PHYS 1011 3.00, SC/PHYS 1410 6.0, SC/PHYS 1411 3.00, SC/PHYS 1420 6.0, SC/PHYS 1421 3.0, SC/ISCI 1310 6.0, SC/ISCI 1301 3.0.",
+            "prereqs": "phys1510 math1013 math1300 math1505 phys1010 phys1011 phys1410 phys1411 phys1420 phys1421 isci1310 isci1301"
+        },
+        {
+            "dept": "phys",
+            "code": "1801",
+            "credit": 3.0,
+            "name": "Electricity, Magnetism and Optics for Engineers",
+            "desc": "A survey of physics in which fundamental concepts in electricity, magnetism and optics are emphasized through engineering applications. This is a calculus-based course intended primarily for engineering students. Prerequisite: SC/PHYS 1800 3.00 and SC/MATH 1013 3.00 or equivalent. Corequisites: SC/MATH 1014 3.00 or SC/MATH 1310 3.00 or SC/MATH 1505 6.00. Course Credit Exclusions: SC/PHYS 1010 6.00, SC/PHYS 1012 3.00, SC/PHYS 1410 6.00, SC/PHYS 1412 3.00, SC/PHYS 1420 6.00, SC/PHYS 1422 3.00, SC/ISCI 1310 6.00, SC/ ISCI 1302 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Classical Mechanics",
+            "desc": "Newtonian mechanics of mass points and rigid bodies. Accelerated reference frames and rotational motion, centrifugal and Coriolis forces. Central force motion in celestial mechanics. Euler's equations: precession and nutation in the gyroscope. Prerequisites: SC/PHYS 1011 3.00 and SC/PHYS 1012 3.00, or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00 or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00 or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.00; SC/MATH 1014 3.00 or equivalent; SC/MATH 1025 3.00 or equivalent; SC/MATH 2015 3.00 or equivalent. Corequisite: SC/MATH 2271 3.00.",
+            "prereqs": "phys1011 phys1012 phys1800 phys1801 isci1301 isci1302 phys1411 phys1412 phys1421 phys1422 math1014 math1025 math2015 math2271"
+        },
+        {
+            "dept": "phys",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Electricity and Magnetism",
+            "desc": "The elements of electric and magnetic fields are developed together with DC and AC circuit theory. Prerequisites: SC/PHYS 1011 3.00 and SC/PHYS 1012. 3.00 or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00 or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.00. Corequisite: SC/MATH 2015 3.00.",
+            "prereqs": "phys1011 phys1012 phys1800 phys1801 isci1301 isci1302 phys1411 phys1412 phys1421 phys1422 math2015"
+        },
+        {
+            "dept": "phys",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "Computational Methods for Physicists and Engineers",
+            "desc": "Programming strategies and techniques using a language such as Python are developed as a tool for numerical analysis, modeling, and computations in physics, astronomy, and engineering. Prerequisites: SC/PHYS 1011 3.00 and SC/PHYS 1012 3.00, or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00; or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00 or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.00; either LE/EECS 1011 3.00 or LE/EECS 1541 3.00; SC/MATH 1014 3.00 or equivalent; SC/MATH 2015 3.00 or equivalent. Corequisite: SC/MATH 2271 3.00 or equivalent.",
+            "prereqs": "phys1011 phys1012 phys1800 phys1801 isci1301 isci1302 phys1411 phys1412 phys1421 phys1422 eecs1011 eecs1541 math1014 math2015 math2271"
+        },
+        {
+            "dept": "phys",
+            "code": "2040",
+            "credit": 3.0,
+            "name": "Relativity and Modern Physics",
+            "desc": "An introduction to the theories of relativity and quantum mechanics. Relativistic concepts of space, time and energy are presented. The quantum nature of radiation and matter is introduced. Prerequisites: SC/PHYS 1011 3.00 and SC/PHYS 1012 3.00, or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00, or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.00.",
+            "prereqs": "phys1011 phys1012 phys1800 phys1801 isci1301 isci1302 phys1411 phys1412 phys1421 phys1422"
+        },
+        {
+            "dept": "phys",
+            "code": "2060",
+            "credit": 3.0,
+            "name": "Optics and Spectra",
+            "desc": "An introductory course in optics covering the following topics: wave nature of light, reflection, refraction, spherical mirrors and lenses, interference, diffraction, polarization, introduction to lasers. Prerequisites: SC/PHYS 1011 3.00 and SC/PHYS 1012 3.00, or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00, or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.0; SC/MATH 1014 3.00 or equivalent; SC/MATH 1025 3.00 or equivalent.",
+            "prereqs": "phys1011 phys1012 phys1800 phys1801 isci1301 isci1302 phys1411 phys1412 phys1421 phys1422 math1014 math1025"
+        },
+        {
+            "dept": "phys",
+            "code": "2070",
+            "credit": 3.0,
+            "name": "Galaxies and the Universe",
+            "desc": "An introduction to the structure, evolution and origin of galaxies, aggregates of galaxies and the universe as a whole. Relevant details of stellar evolution are encompassed. Topics such as supernovae, pulsars, black holes, quasars, density waves, the cosmic web, cosmic expansion and dark constituents of the universe are included. Prerequisite: OAC Physics or 12U Physics or SC/PHYS 1510 3.00; SC/PHYS 1070 3.00, or SC/PHYS 1470 3.00 and permission of the Instructor.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "2211",
+            "credit": 1.0,
+            "name": "Experimental Electromagnetism",
+            "desc": "An introductory laboratory course for second-year students. The course consists of 10 experiments covering basic concepts of electromagnetism. Normally three laboratory hours per week. One term. One credit. Prerequisite: SC/PHYS 1011 3.00 and SC/PHYS 1012 3.00; or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00; or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.00.Corequisite(s): SC/PHYS 2020 3.00. Course credit exclusion: SC/PHYS 2213 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "2213",
+            "credit": 3.0,
+            "name": "Experimental Physics with Data Analysis",
+            "desc": "Experiments in Electricity and Magnetism and in Modern Optics. Basic methods for analyzing experimental data and understanding statistical and systematic errors. Prerequisites: SC/PHYS 1011 3.00 and SC/PHYS 1012 3.00, or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00, or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.00. Corequisites: SC/PHYS 2020 3.00, SC/PHYS 2060 3.00 recommended. Course credit exclusions: SC/PHYS 2211 1.00, SC/PHYS 2212 1.00.",
+            "prereqs": "phys1011 phys1012 phys1800 phys1801 isci1301 isci1302 phys1411 phys1412 phys1421 phys1422 phys2020 phys2060 phys2211 phys2212"
+        },
+        {
+            "dept": "phys",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Classical Mechanics",
+            "desc": "Intermediate classical mechanics, including dynamics of particles and systems of particles. Lagrange's equations and Hamilton's equations. Prerequisites: SC/PHYS 2010 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00.",
+            "prereqs": "phys2010 math2015 math2271"
+        },
+        {
+            "dept": "phys",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Electromagnetics I",
+            "desc": "Electrostatic and magnetostatic fields, derived from charge and current distributions studied in vacuum and in material media. Prerequisites: SC/PHYS 2020 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00.",
+            "prereqs": "phys2020 math2015 math2271"
+        },
+        {
+            "dept": "phys",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Statistical and Thermal Physics",
+            "desc": "Statistical mechanics of systems of large numbers of elements. Probability, ensembles, fluctuations. Applications: spin magnetism, electrons in metals, radiation, specific heats of solids. Transport theory. Prerequisites: SC/PHYS 2020 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00.",
+            "prereqs": "phys2020 math2015 math2271"
+        },
+        {
+            "dept": "phys",
+            "code": "3040",
+            "credit": 6.0,
+            "name": "Modern Physics",
+            "desc": "Survey of the basis of contemporary physics: introduction to elementary wave mechanics, and the quantum theory of atoms, molecules, solids, nuclei, elementary wave mechanics and elementary particles. Prerequisites: SC/PHYS 2010 3.00; SC/PHYS 2020 3.00; SC/PHYS 2060 3.00; SC/MATH 1025 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00. Corequisite: SC/PHYS 3090 3.00 recommended.",
+            "prereqs": "phys2010 phys2020 phys2060 math1025 math2015 math2271 phys3090"
+        },
+        {
+            "dept": "phys",
+            "code": "3070",
+            "credit": 3.0,
+            "name": "Planets and Planetary Systems",
+            "desc": "Survey of planetary astrophysics. Topics include: the formation and evolution of planetary systems; the search for and discovery of extra-solar planets; current knowledge of the atmospheres, interiors and surfaces of planets, satellites and minor bodies within the Solar System. Prerequisites: SC/PHYS 1011 3.00 and SC/PHYS 1012 3.00, or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or a minimum grade of C in SC/PHYS 1411 3.00 and SC/PHYS 1412 3.00, or SC/PHYS 1421 3.00 and SC/PHYS 1422 3.00.",
+            "prereqs": "phys1011 phys1012 phys1800 phys1801 isci1301 isci1302 phys1411 phys1412 phys1421 phys1422"
+        },
+        {
+            "dept": "phys",
+            "code": "3080",
+            "credit": 3.0,
+            "name": "Atmospheric Radiation and Thermodynamics",
+            "desc": "Applications of basic thermodynamic principles to dry and moist atmospheric situations. Solar (short wave) and terrestrial (long wave) radiation with respect to absorption and scattering processes involving atmospheric atoms, molecules, aerosol particles and clouds. Prerequisites: SC/MATH 2015 3.00; SC/MATH 2271 3.00; SC/PHYS 1012 3.00; or SC/PHYS 1010 6.00; or any of the following acceptable substitutes: SC/PHYS 1801 3.00; or SC/ISCI 1310 6.00; or SC/ISCI 1302 3.00; or any of the following with a minimum grade of C in each course: SC/PHYS 1410 6.00; SC/PHYS 1420 6.00; SC/PHYS 1412 3.00; SC/PHYS 1422 3.00",
+            "prereqs": "math2015 math2271 phys1012 phys1010 phys1801 isci1310 isci1302 phys1410 phys1420 phys1412 phys1422"
+        },
+        {
+            "dept": "phys",
+            "code": "3090",
+            "credit": 3.0,
+            "name": "Methods in Theoretical Physics",
+            "desc": "Methods of classical and modern theoretical physics are introduced to solve problems such as heat diffusion, wave propagation, modes of vibrating strings and membranes, electromagnetic potentials from charge distributions, Schrödinger waves and eigenvalues, and the angular distribution of cosmic radiation. Prerequisite: SC/PHYS 2020 3.00. Corequisite: SC/PHYS 3040 6.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Practical Data Science Methods in Physical Sciences",
+            "desc": "This course provides practical modern research methods including a wide range of skills encompassing statistics, research methodologies and data science investigations. This course allows students to conduct their own research project, conduct a literature review, use, and understand physics and astronomy data science methods, access cloud computing tools, and employ Python code to illustrate their research methods. Real physics and astronomy data sets are required (students may choose from provided sets or select a new one with instructor approval) for all student projects. Through the research project, students employ critical thinking to solve a problem on real-world data. Students enhance their written communication as well as knowledge of the data science environment by presenting their project at the end of the course. The tool-centric nature of this course will see students introduced to many modern scientific workhorses like the API (Application Program Interface) call, pipelines, databases, SQL, TopCat and more. This course provides not only an invaluable toolkit to students, but also a roadmap on how to use these tools and techniques in science research. Students may find this course a helpful precursor to research and 4000 level courses like PHYS 4030, 4270, 4310 and more. Prerequisites: SC/PHYS 2213 3.0, SC/PHYS 2030 3.0, or permission of the instructor",
+            "prereqs": "phys2213 phys2030"
+        },
+        {
+            "dept": "phys",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Experiments in Modern Physics",
+            "desc": "A selection of experiments in fluid mechanics, electromagnetism, optics, and atomic, nuclear, and particle physics. Analysis of the data and detailed write-ups are required. Prerequisites: SC/PHYS 2020 3.00; SC/PHYS 2060 3.00; SC/PHYS 2213 3.00. Corequisite: SC/PHYS 3040 6.00.",
+            "prereqs": "phys2020 phys2060 phys2213 phys3040"
+        },
+        {
+            "dept": "phys",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "Introduction to Space Communications",
+            "desc": "The course covers all aspects of communications between spacecraft and ground stations. Topics include orbital aspects of satellite communications, communications components of satellites and interplanetary spacecraft and ground stations, transmission, reception, link equations, modulation, multiplexing techniques and access to a satellite. Prerequisite: SC/PHYS 2020 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "3280",
+            "credit": 3.0,
+            "name": "Physics of the Space Environment",
+            "desc": "An introduction to the physical processes of the upper atmosphere, the ionosphere, the magnetosphere and the heliosphere, and the interactions that occur with space vehicles that traverse these regions of space. Prerequisites: SC/PHYS 2020 3.00, SC/MATH 2271 3.00. Course Credit Exclusions: LE/EATS 3280 3.00 (prior to Fall 2014), SC/EATS 3280 3.00 (prior to Summer 2013).",
+            "prereqs": "phys2020 math2271 eats3280 fall2014 eats3280 summer2013"
+        },
+        {
+            "dept": "phys",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Experiential Learning Opportunity through Research and Exchange (EXPLORE)",
+            "desc": "Students engage and collaborate in cutting-edge scientific research as part of an international team of faculty mentors and student peers from other universities in Canada and in other countries. Students read scientific literature, learn the process of scientific research, make oral and written presentations, and participate in research team activities using virtual workspaces and remote collaboration tools. Research themes are decided in advance by faculty mentors and may include topics in theoretical and/or computational physics, astrophysics, or biophysics; or data analysis related to experimental physics or biophysics, observational astronomy or cosmology, or numerical simulations of physical systems. Enrollment by instructor permission only. Normally students would have completed SC/PHYS 2020 3.0 and SC/PHYS 2030 3.0.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "3900",
+            "credit": 0.0,
+            "name": "Physics Internship Work Term",
+            "desc": "This experiential education course reflects the work term component of the Technology Internship Program (TIP). Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four ( i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee. Prerequisites: Enrolment is by permission only. Criteria for permission include: (1) that students have successfully completed at least nine PHYS credits at the 3000-level or higher, and have a GPA of at least 5.00 in SC/PHYS courses overall; (2) that students are enrolled full-time in the Honours program prior to beginning their internship and have attended the mandatory preparatory sessions as outlined by the Career Centre; (3) that students have not been absent for more than two consecutive years as a full-time student from their Honours degree studies; (4) that upon enrolling in this course students have a minimum of nine credits remaining towards their Honours degree and need to return as a full-time student for at least one academic term to complete their degree after completion of their final work term. Registration in SC/PHYS 3900 0.00 provides a record on the transcript for each work term.",
+            "prereqs": "the3000 phys3900"
+        },
+        {
+            "dept": "phys",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Physics in the Intermediate-Senior Divisions - A",
+            "desc": "This course begins to prepare students to be qualified teachers of Physics in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Physics in the intermediate and senior grades. Only available to students in the Bachelor of Education (BEd) program.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Physics in the Intermediate-Senior Divisions - B",
+            "desc": "This course continues to prepare students to be qualified teachers of Physics in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Physics areas in order to further develop students' expertise for teaching this subject. ED/PHYS 4000 (Part A) is a prerequisite for this course. This course is only available to students in the Bachelor of Education (BEd) degree program.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Quantum Mechanics",
+            "desc": "Physical concepts and mathematical foundations of quantum mechanics. Emphasis on approximation methods, treatment of angular momentum, spin and their couplings. Introduction to relativistic quantum mechanics and scattering theory. Prerequisite: SC/PHYS 3040 6.00. Prerequisite(s) or corequisite(s): SC/PHYS 3020 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Electromagnetics II",
+            "desc": "Time-dependent electric and magnetic fields, Maxwell's differential equations in linear, isotropic, homogeneous conductors and dielectrics; the radiation and transmission of electromagnetic energy; relativistic transformation; scalar diffraction theory. Prerequisites: SC/PHYS 3020 3.00; recommended SC/PHYS 2040 3.00",
+            "prereqs": "phys3020 phys2040"
+        },
+        {
+            "dept": "phys",
+            "code": "4030",
+            "credit": 3.0,
+            "name": "Advanced Computational Methods for Scientists and Engineers",
+            "desc": "Computational approaches are developed to introduce, demonstrate, and reinforce advanced core conceptual topics in physics. Topics include advanced data analysis and computational modeling techniques (e.g., signal processing, Monte Carlo simulations, numerical integration of ordinary and partial differential equations, etc.) as well as visualization strategies. Basic tenets and elements of \"Data Science\" and machine learning (e.g., Deep Learning) are introduced so that students gain exposure to, and an appreciation of, how large-scale computation is rapidly evolving and affecting a broad range of scientific methodologies. Pre-Requisites: PHYS 2030 3.0 or equivalent. MATH 2271 3.0 or equivalent. 6 credits from PHYS/BPHS 3*** (PHYS 3090 in particular is encouraged).",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "4040",
+            "credit": 3.0,
+            "name": "Elementary Particle Physics",
+            "desc": "The properties of the fundamental particles (quarks and leptons), and the forces between them are studied. Topics include the interactions of particles with matter, symmetry principles and experimental techniques. Prerequisites: SC/PHYS 2040 3.00, SC/PHYS 4010 3.00.",
+            "prereqs": "phys2040 phys4010"
+        },
+        {
+            "dept": "phys",
+            "code": "4060",
+            "credit": 3.0,
+            "name": "Time Series and Spectral Analysis",
+            "desc": "Treatment of discrete sampled data involving correlation, convolution, spectral density estimation, frequency, domain filtering, and Fast Fourier Transforms. Prerequisites: LE/EECS 1011 3.00 or equivalent programming experience; SC/MATH 2015 3.00; SC/MATH 2271 3.00. PRIOR TO SUMMER 2014: Prerequisites: LE/CSE 1540 3.00 or SC/CSE 1540 3.00 or equivalent programming experience; SC/MATH 2015 3.00; SC/MATH 2271 3.00. Course credit exclusions: LE/CSE 3451 4.00, SC/CSE 3451 4.00 LE/CSE 3451 3.00, SC/CSE 3451 3.00, SC/MATH 4130B 3.00, SC/MATH 4930C 3.00.",
+            "prereqs": "eecs1011 math2015 math2271 summer2014 cse1540 cse1540 math2015 math2271 cse3451 cse3451 cse3451 cse3451 math4130 math4930"
+        },
+        {
+            "dept": "phys",
+            "code": "4061",
+            "credit": 3.0,
+            "name": "Experimental Techniques in Laser Physics",
+            "desc": "Involves a selection of experiments in laser physics, with emphasis on techniques necessary for trapping neutral atoms with lasers. Integrated with: GS/PHYS 5061 3.00. Prerequisites: SC/PHYS 2211 1.00 and SC/PHYS 2212 1.00, or SC/PHYS 2213 3.00; SC/PHYS 2020 3.00; SC/PHYS 2060 3.00. Corequisite: SC/PHYS 3040 6.00.",
+            "prereqs": "phys2211 phys2212 phys2213 phys2020 phys2060 phys3040"
+        },
+        {
+            "dept": "phys",
+            "code": "4062",
+            "credit": 3.0,
+            "name": "Atom Trapping",
+            "desc": "Involves trapping atoms with lasers and investigating the properties of laser-cooled atoms. The course includes a set of lectures that cover theoretical concepts including basic properties of two-level atoms, radiation pressure, the laser cooling force, magnetic trapping, and the dipole force. One lecture hour and one tutorial hour per week and sixteen three hour laboratory sessions over a period of eight weeks. Integrated with: GS/PHYS 5062 3.00. Prerequisites: SC/PHYS 4061 3.00.",
+            "prereqs": "phys4061"
+        },
+        {
+            "dept": "phys",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Dynamics of Space Vehicles",
+            "desc": "This course presents a coherent and unified framework for mathematical modeling and analysis of space vehicles. The course can be divided into two main parts: orbit dynamics and attitude dynamics and control. The topics covered by this course include two-body problem, coordinate transformation, orbital elements, perturbation theory, orbital maneuvers, relative motion and rendezvous, interplanetary trajectories, rocket dynamics, and attitude dynamics and control. Spacecraft dynamics and control problems of practical interests are treated from a dynamical systems point of view. This course will focus on a comprehensive treatment of spacecraft dynamics and control problems and their practical solutions. Prerequisites: SC/PHYS 2010 3.00 or LE/ESSE 2470 3.00; SC/MATH 2271 3.00. Course Credit exclusion: SC/PHYS 4110 3.00",
+            "prereqs": "phys2010 esse2470 math2271 phys4110"
+        },
+        {
+            "dept": "phys",
+            "code": "4170",
+            "credit": 3.0,
+            "name": "Observational and Theoretical Cosmology",
+            "desc": "A survey of observational and theoretical foundations of modern cosmology. Observational constraints on the history and current state of the universe are examined. Theoretical foundations of modern cosmology are introduced and employed to interpret observations. In the process, ideas about the early evolution of the universe, including the introduction of cosmic inflation and the development of large-scale structure, are elucidated. Prerequisite: SC/PHYS 3090 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Physics or Astronomy Project",
+            "desc": "A faculty-supervised research endeavour, either experimental or theoretical, in physics or astronomy. Before enrolling, the student and faculty member must agree upon the project scope, background reading, milestones including student-faculty meeting schedule, and deliverables including final written report.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "4350",
+            "credit": 6.0,
+            "name": "Space Hardware",
+            "desc": "Explores the theoretical, practical and experimental techniques needed to acquire and manipulate typical signals used in spacecraft system operations or integration and testing. Three laboratory hours and two lecture hours per week. Prerequisites: SC/PHYS 3150 3.00; SC/PHYS 3250 3.00",
+            "prereqs": "phys3150 phys3250"
+        },
+        {
+            "dept": "phys",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Electromagnetism",
+            "desc": "A formal treatment of electromagnetic fields, including: review of Maxwell's Equations; wave propagation, fields from time-independent sources; Green's Function methods; multipole expansions; field energy and momentum conservation; electromagnetic waves; refraction; wave-guides; solutions of Maxwell's Equations with time-dependent sources, multipole radiation; electromagnetic field of moving point charges; Lienard-Wiechart potentials; relativistic nature of Maxwell's Equations; Lorentz transformations of electric and magnetic fields.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5040",
+            "credit": 3.0,
+            "name": "Elementary Particle Physics",
+            "desc": "The properties of the fundamental particles (quarks and leptons) and the force between them are studied. Topics include the interactions of particles with matter, symmetry principles and experimental techniques.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5061",
+            "credit": 3.0,
+            "name": "Experimental Techniques in Laser Physics",
+            "desc": "This course involves a selection of labs in laser physics, with emphasis on techniques necessary for trapping neutral atoms with lasers. Integrated with SC/PHYS 4061 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5062",
+            "credit": 3.0,
+            "name": "Atom Trapping",
+            "desc": "Involves trapping atoms with lasers and investigating the properties of laser-cooled atoms. The course includes a set of lectures that cover theoretical concepts including basic properties of two-level atoms, radiation pressure, the laser cooling force, magnetic trapping, and the dipole force. Prerequisite: GS/PHYS 5061 3.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5070B",
+            "credit": 3.0,
+            "name": "Numerical Solutions to Differential Equations",
+            "desc": "Provides a rigorous treatment of numerical methods for the solutions of ordinary and partial differential equations.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5070A",
+            "credit": 3.0,
+            "name": "Advanced Numerical Methods",
+            "desc": "Numerical methods for solving ordinary differential equations, optimization problems: steepest descents, conjugate gradient methods, approximation theory: least squares, orthogonal polynomials, Chebyshev and Fourier approximation, Padé approximation. Prerequisite: SC/MATH 2270 3.00; SC/MATH 3242 3.00 or LE/EECS 3122 3.00 or their equivalents.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5400",
+            "credit": 3.0,
+            "name": "Physics Research",
+            "desc": "A non-thesis experimental or theoretical research endeavour in physics, supervised by a faculty member. The student and supervising faculty member agree at the outset on the project scope (including required literature review), milestones (including frequency of regular student-faculty meetings), and deliverables (including a final written report).",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5490",
+            "credit": 3.0,
+            "name": "Astronomical Research",
+            "desc": "A non-thesis experimental or theoretical research endeavour in astronomy, supervised by a faculty member. The student and supervising faculty member agree at the outset on the project scope (including required literature review), milestones (including frequency of regular student-faculty meetings), and deliverables (including a final written report).",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5590",
+            "credit": 3.0,
+            "name": "Observational and Theoretical Cosmology",
+            "desc": "A survey of observational and theoretical foundations of modern cosmology. Observational constraints on the history and current state of the universe are examined. Theoretical foundations of modern cosmology are introduced and employed to interpret observations. In the process, ideas about the early evolution of the universe, including the introduction of cosmic inflation and the development of large-scale structure, are elucidated.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "5800",
+            "credit": 3.0,
+            "name": "Introduction to Biological Physics",
+            "desc": "This course will focus on applications of quantum physics in biology and medicine. Integrated with SC/BPHS 4090 4.00.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6001A",
+            "credit": 3.0,
+            "name": "M.Sc. Research Evaluation",
+            "desc": "",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6001C",
+            "credit": 3.0,
+            "name": "M.Sc. Research Evaluation",
+            "desc": "",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6001B",
+            "credit": 3.0,
+            "name": "M.Sc. Research Evaluation",
+            "desc": "",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Advanced Topics in Solid State Physics: Solid Mechanics",
+            "desc": "",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6140",
+            "credit": 3.0,
+            "name": "Advanced Topics In Particle Physics",
+            "desc": "This course is a continuation of the material in Physics 5140 3.0. Non-Abelian guage theories will be studied in some detail, namely the Weinberg-Salam model of weak interactions, quantum chromodynamics for the strong interaction and the SU(5) grand unified theory.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6170",
+            "credit": 3.0,
+            "name": "Selected Topics in Applied Optical Physics",
+            "desc": "Topics may change from year to year. Typical subject material may be selected from: design of advanced optical components, instruments and systems, detectors and instruments, the principles of laser radar (lidar), the interaction of laser radiation with materials, optical communication systems, advanced instrumentation for astronomy and space science.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6180",
+            "credit": 3.0,
+            "name": "Selected Topics in Biological Physics",
+            "desc": "Discussion of one or more topics in biological physics. Specific topics will vary.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6213",
+            "credit": 1.0,
+            "name": "Selected Topics in Physics",
+            "desc": "This course covers a selected topic in theoretical or experimental physics.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "6214",
+            "credit": 1.0,
+            "name": "Selected Topics in Astronomy",
+            "desc": "This course covers a selected topic in theoretical or observational astronomy.",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "7001F",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation",
+            "desc": "TBA",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "7001D",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation",
+            "desc": "Course Description:",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "7001E",
+            "credit": 3.0,
+            "name": "Ph.D. Research Ecaluation",
+            "desc": "Course Description:",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "7001C",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation",
+            "desc": "Course Description:",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "7001A",
+            "credit": 3.0,
+            "name": "Ph.D Research Evaluation",
+            "desc": "",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "7001G",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation",
+            "desc": "Course Description:",
+            "prereqs": ""
+        },
+        {
+            "dept": "phys",
+            "code": "7001B",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation",
+            "desc": "Course Description:",
+            "prereqs": ""
+        }
+    ]
+}

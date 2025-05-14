@@ -1,0 +1,241 @@
+/* Ensure padding and borders are included in box sizing */
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  /* Wrapper splits view: 80% planner, 20% info panel */
+  .planner-wrapper {
+    display: flex;
+    height: 100vh;
+    width: 100vw;                 /* use 100% to avoid horizontal scroll */
+    overflow-x: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Main planner area: 80% width */
+  .planner-container {
+    /* allow flex children to shrink below content size */
+    min-width: 0;
+    flex: 0 0 80%;
+  
+    /* Main planner area: fixed 80% width via flex-basis */
+    flex: 0 0 80%;
+    /* Remove explicit width */
+    /* width: 80%; */
+    display: flex;
+    flex-direction: column;
+    background: #f4f6f8;
+    overflow-y: auto;
+    overflow-x: hidden;
+  } 
+  
+  /* Header with edit button and title */
+  .planner-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: #ffffff;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  .planner-header h1 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+  }
+  
+  .edit-btn {
+    padding: 0.5rem 1rem;
+    background: #1976d2;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .edit-btn:hover {
+    background: #155a9c;
+  }
+  
+  /* Grid for semesters: two columns per row */
+  .semesters-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    padding: 2rem;
+    margin: 0;
+  }
+  
+  /* Individual semester column */
+  .semester-column {
+    background: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+  }
+  .semester-column h2 {
+    margin: 0 0 1rem;
+    font-size: 1.2rem;
+    color: #1976d2;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5rem;
+  }
+  
+  .course-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0.5rem 0.75rem;
+    margin-bottom: 0.25rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.2s, transform 0.1s;
+  }
+  .course-item:hover {
+    background: rgba(25, 118, 210, 0.1);
+    transform: translateX(4px);
+  }
+  .course-item.selected {
+    background: rgba(25, 118, 210, 0.3);
+  }
+  
+  .no-courses {
+    font-style: italic;
+    color: #666;
+    text-align: center;
+    flex-grow: 1;
+  }
+  
+  /* Info panel on right: 20% width */
+  .info-panel {
+    /* Info panel: fixed 20% width */
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background: #ffffff;
+    border-left: 1px solid #ccc;
+    padding: 1rem;
+    overflow-y: auto;
+  }
+  .info-panel h2 {
+    margin-top: 0;
+    font-size: 1.3rem;
+    color: #1976d2;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5rem;
+  }
+  .info-panel p {
+    margin: 1rem 0;
+    line-height: 1.4;
+    color: #444;
+  }
+  
+  .course-item.highlight { background: #ffeeba; }
+.course-item.dim       { opacity: 0.3;          }
+.deps-btn {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+/* Top 65% for course info */
+.info-content {
+  flex: 6.5;                   
+  overflow-y: auto;
+  padding: 1.5rem;
+}
+
+/* Bottom 35% for sliders */
+.slider-panel {
+  flex: 3.5;                   
+  border-top: 1px solid #ddd;
+  padding: 1rem 1.5rem;
+  overflow-y: auto;
+}
+
+/* Slider rows */
+.slider-row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+}
+
+/* Label above each slider */
+.slider-row label {
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+  color: #333;
+}
+
+/* Range input styling */
+.slider-row input[type="range"] {
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  background: #ddd;
+  outline: none;
+}
+
+.slider-row input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #1976d2;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.slider-row input[type="range"]::-webkit-slider-thumb:hover {
+  background: #135ea8;
+}
+
+/* For Firefox */
+.slider-row input[type="range"]::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #1976d2;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+/* Heading within slider panel */
+.slider-panel h3 {
+  margin: 0 0 1rem;
+  font-size: 1.1rem;
+  color: #1976d2;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5rem;
+}
+.slider-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  color: #555;
+  margin-top: 0.25rem;
+}
+.slider-labels span {
+  flex: 1;
+  text-align: center;
+}
+.course-item.invalid {
+  background-color: rgba(255, 69, 58, 0.15); /* light red tint */
+  border: 1px solid #ff453a;                /* vivid red border */
+}
+
+/* Optionally add a subtle shake animation on hover */
+.course-item.invalid:hover {
+  animation: shake 0.3s ease-in-out;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25%      { transform: translateX(-4px); }
+  75%      { transform: translateX(4px); }
+}
